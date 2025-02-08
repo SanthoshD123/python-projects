@@ -7,7 +7,7 @@ A diverse collection of Python projects demonstrating practical programming skil
 
 ## 🚀 Project List  
 
-### 🎮 **Games and Fun Projects**
+### 🎮 Games and Fun Projects
 - **Maze Game:** A classic maze-solving game.  
 - **Mad Libs Generator:** Fun interactive storytelling.  
 - **Quiz Game:** Test your knowledge.  
