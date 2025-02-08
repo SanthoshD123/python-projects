@@ -55,18 +55,6 @@ A diverse collection of Python projects demonstrating practical programming skil
 
 ---
 
-## 📁 Folder Structure
-```
-📦 python-projects  
-├── games/  
-├── automation-tools/  
-├── file-conversions/  
-├── ai-experiments/  
-└── README.md  
-```  
-
----
-
 ## 🛠️ Technologies Used  
 - **Language:** Python 3.x  
 - **Libraries:** Flask, Numpy, Scipy, Matplotlib, BeautifulSoup  
