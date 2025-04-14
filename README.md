@@ -1,16 +1,20 @@
 # 🐍 Python Projects Collection
-
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Last Updated](https://img.shields.io/badge/last%20updated-April%202025-orange)
+![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-April%202025-brightgreen.svg)
 
 A comprehensive collection of practical, ready-to-use Python scripts for everyday tasks, automation, utilities, and fun projects.
 
 ## 📋 Overview
-
 This repository contains over 40 Python scripts covering a wide range of applications - from file conversion tools and web utilities to security scripts and games. Each script is designed to be standalone and solve specific practical problems.
 
 ## 🚀 Featured Categories
+
+### 📊 Data Visualization
+Create interactive and insightful visual representations of data:
+- Data visualization dashboard
+- Word cloud generator
+- Wikipedia search wordcloud
 
 ### 🔄 File Conversion
 Convert between various file formats with ease:
@@ -57,10 +61,9 @@ Protect data and manipulate images:
 - OTP verification
 
 ## 🎯 Quick Start
-
 Most scripts can be run directly using Python:
 
-```bash
+```
 python script_name.py
 ```
 
@@ -69,22 +72,20 @@ python script_name.py
 - Required dependencies vary by script (check individual script headers)
 
 ## 📦 Installation
-
 Clone the repository to get all scripts at once:
 
-```bash
+```
 git clone https://github.com/SanthoshD123/python-projects.git
 cd python-projects
 ```
 
 For dependencies, each script may have different requirements. Check the script header or install common packages:
 
-```bash
-pip install requests beautifulsoup4 pillow pytube pdfkit
+```
+pip install requests beautifulsoup4 pillow pytube pdfkit pandas matplotlib seaborn plotly
 ```
 
 ## 🤝 Contributing
-
 Contributions are welcome! Feel free to:
 
 1. Fork the repository
@@ -95,13 +96,9 @@ Contributions are welcome! Feel free to:
 6. Open a Pull Request
 
 ## 📜 License
-
 This project is open-source and available under the MIT License.
 
 ## 📞 Contact
-
 Feel free to open an issue for questions, suggestions, or discussions.
-
----
 
 ⭐ Star this repository if you find it useful! ⭐
