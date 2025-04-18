@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Last Updated](https://img.shields.io/badge/last%20updated-April%202025-brightgreen.svg)
 
-A comprehensive collection of practical, ready-to-use Python scripts for everyday tasks, automation, utilities, and fun projects.
+A collection of practical, ready-to-use Python scripts for everyday tasks, automation, utilities, and fun projects.
 
 ## 📋 Overview
 This repository contains over 40 Python scripts covering a wide range of applications - from file conversion tools and web utilities to security scripts and games. Each script is designed to be standalone and solve specific practical problems.
